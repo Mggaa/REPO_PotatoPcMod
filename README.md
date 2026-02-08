@@ -27,4 +27,6 @@ This mod disables heavy visual effects that cause stutter and low FPS, especiall
 - Visual quality will be reduced to improve performance.
 
 ### Credits
+- MGA2028
+
 Created to help players with low-end hardware.
