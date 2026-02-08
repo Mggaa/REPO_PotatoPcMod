@@ -1,7 +1,7 @@
 {
   "name": "REPO_PotatoPerformance",
   "version_number": "1.0.2",
-  "website_url": "",
+  "website_url": "https://github.com/Mggaa/REPO_PotatoPcMod/",
   "description": "Performance-focused mod for low-end PCs. Disables post-processing, shadows and heavy visual effects. Fully configurable via REPOConfig.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2304",
@@ -9,3 +9,4 @@
     "nickklmao-MenuLib-2.5.1"
   ]
 }
+
